@@ -1,10 +1,8 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:28AD6D,100:1a8f55&height=220&section=header&text=46SX&fontColor=ffffff&fontSize=70&fontAlignY=35&desc=Python%20Developer%20%7C%20Automation%20%C2%B7%20APIs%20%C2%B7%20Scraping&descAlignY=55&descSize=18&animation=fadeIn" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:e8f5e9,50:28AD6D,100:1a8f55&height=220&section=header&text=46SX&fontColor=1a1a1a&fontSize=70&fontAlignY=35&desc=Python%20Developer%20%7C%20Automation%20%C2%B7%20APIs%20%C2%B7%20Scraping&descAlignY=55&descSize=18&animation=fadeIn" />
-  <img alt="header" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:28AD6D,100:1a8f55&height=220&section=header&text=46SX&fontColor=ffffff&fontSize=70&fontAlignY=35&desc=Python%20Developer%20%7C%20Automation%20%C2%B7%20APIs%20%C2%B7%20Scraping&descAlignY=55&descSize=18&animation=fadeIn" />
-</picture>
+
 
 <div align="center">
+  <img src="./assets/banner.png" alt="banner" width="100%" />
+</div>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=28AD6D&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=70&lines=Building+tools+that+save+people+time+%E2%8C%9B;Automating+the+boring+stuff+with+Python+%F0%9F%90%8D)](https://git.io/typing-svg)
 
