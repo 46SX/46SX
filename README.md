@@ -1,10 +1,8 @@
-
-
 <div align="center">
-  <img src="./assets/banner.png" alt="banner" width="100%" />
+  <img src="./banner.png" alt="banner" width="100%" />
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=28AD6D&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=70&lines=Building+tools+that+save+people+time+%E2%8C%9B;Automating+the+boring+stuff+with+Python+%F0%9F%90%8D)](https://git.io/typing-svg)
+<div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=46SX&style=for-the-badge&color=28AD6D&label=PROFILE+VIEWS" alt="Profile views" />
 
@@ -42,7 +40,6 @@ class 46SX:
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows11&logoColor=white)
-
 
 </div>
 
@@ -98,9 +95,3 @@ I'm available for freelance work — reach out below.
 *Hej! Jag är också svensk — hör gärna av dig på svenska om du föredrar det.* 🇸🇪
 
 </div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:28AD6D,100:1a8f55&height=100&section=footer" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:e8f5e9,50:28AD6D,100:1a8f55&height=100&section=footer" />
-  <img alt="footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:28AD6D,100:1a8f55&height=100&section=footer" />
-</picture>
