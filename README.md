@@ -27,10 +27,8 @@ class L1mp0:
 
     def get_services(self):
         return [
-            "Custom API integrations",
+            "API integrations",
             "Web scraping & data extraction",
-            "Python automation scripts",
-            "Discord & Telegram bots",
         ]
 ```
 
