@@ -21,9 +21,9 @@ class 46SX:
     def __init__(self):
         self.name = "46SX"
         self.role = "Python Developer"
+        self.status = "Gymnasium student, year 2"
         self.languages = ["sv_SE", "en_US"]
         self.focus = ["Automation", "API Integrations", "Web Scraping"]
-        self.fun_fact = "I have a server sitting idle, waiting for its first job"
 
     def get_services(self):
         return [
