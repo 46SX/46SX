@@ -82,9 +82,6 @@ Looking for a custom Python script, API integration, or automation tool?
 
 I'm available for freelance work — reach out below.
 
-<!-- Uncomment these when your profiles are ready -->
-<!-- [![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](YOUR_FIVERR_LINK) -->
-<!-- [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](YOUR_UPWORK_LINK) -->
 
 </div>
 
