@@ -28,20 +28,16 @@ class Developer:
         }
 ```
 
----
-
 ### What I Build
 
 **Automation & Data**
-Scripts and pipelines that collect, process, and visualize data — from game economy trackers to self-hosted monitoring dashboards.
+Scripts that collect and visualize data, like tracking Hypixel Bazaar prices in real time.
 
 **API Integrations**
-Clean wrappers and data flows around public and private APIs, built for reliability and long-term operation on headless servers.
+Pulling data from APIs and turning it into something useful.
 
 **Infrastructure**
-Self-hosted services on Linux — Tailscale mesh networks, Jellyfin media servers, Ollama AI inference nodes, Grafana dashboards.
-
----
+Running my own servers at home. Media, AI, dashboards, all self-hosted on Linux.
 
 ### Tech Stack
 
@@ -60,8 +56,6 @@ Self-hosted services on Linux — Tailscale mesh networks, Jellyfin media server
 
 </div>
 
----
-
 ### Featured Projects
 
 <div align="center">
@@ -73,8 +67,6 @@ Self-hosted services on Linux — Tailscale mesh networks, Jellyfin media server
 </div>
 
 > *More projects pinned below ↓*
-
----
 
 ### Stats
 
@@ -99,15 +91,13 @@ Self-hosted services on Linux — Tailscale mesh networks, Jellyfin media server
 </picture>
 </div>
 
----
-
 ### Work With Me
 
 <div align="center">
 
-Need a custom scraper, API integration, or automation pipeline?
+Need a scraper, API integration, or some automation?
 
-I'm available for freelance work — feel free to reach out.
+I'm open for freelance stuff, just reach out.
 
 <br>
 
