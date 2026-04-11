@@ -89,6 +89,4 @@ I'm available for freelance work — reach out below.
 
 <div align="center">
 
-*Hej! Jag är också svensk — hör gärna av dig på svenska om du föredrar det.* 🇸🇪
-
 </div>
