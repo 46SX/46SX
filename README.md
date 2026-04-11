@@ -2,53 +2,83 @@
   <img src="./banner.png" alt="banner" width="100%" />
 </div>
 
+<br>
+
 <div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=46SX&style=for-the-badge&color=28AD6D&label=PROFILE+VIEWS" alt="Profile views" />
-
+  <a href="https://github.com/46SX"><img src="https://img.shields.io/badge/Python-Developer-28AD6D?style=for-the-badge&labelColor=0d1117" /></a>
+  <a href="https://github.com/46SX"><img src="https://img.shields.io/badge/Open_Source-Contributor-28AD6D?style=for-the-badge&labelColor=0d1117" /></a>
+  <a href="https://github.com/46SX"><img src="https://img.shields.io/badge/Available-For_Hire-28AD6D?style=for-the-badge&labelColor=0d1117" /></a>
 </div>
 
----
-
-### `> whoami`
+<br>
 
 ```python
-class 46SX:
+class Developer:
     def __init__(self):
-        self.name = "46SX"
-        self.role = "Python Developer"
-        self.status = "Gymnasium student, year 2"
-        self.languages = ["sv_SE", "en_US"]
-        self.focus = ["Automation", "API Integrations", "Web Scraping"]
+        self.alias    = "46SX"
+        self.location = "Sweden"
+        self.langs    = ["sv_SE", "en_US"]
+        self.focus    = ["Automation", "API Integrations", "Web Scraping", "Data Pipelines"]
 
-    def get_services(self):
-        return [
-            "API integrations",
-            "Web scraping & data extraction",
-        ]
+    def current(self):
+        return {
+            "building": "Self-hosted Hypixel Bazaar analytics platform",
+            "learning": "Systems programming, Linux infrastructure",
+            "stack":    ["Python", "SQLite", "Grafana", "Lua", "Docker"],
+        }
 ```
 
 ---
 
-### 🛠 Tech Stack
+### What I Build
+
+**Automation & Data**
+Scripts and pipelines that collect, process, and visualize data — from game economy trackers to self-hosted monitoring dashboards.
+
+**API Integrations**
+Clean wrappers and data flows around public and private APIs, built for reliability and long-term operation on headless servers.
+
+**Infrastructure**
+Self-hosted services on Linux — Tailscale mesh networks, Jellyfin media servers, Ollama AI inference nodes, Grafana dashboards.
+
+---
+
+### Tech Stack
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows11&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=flat-square&logo=tailscale&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 </div>
 
 ---
 
-### 📊 GitHub Stats
+### Featured Projects
 
 <div align="center">
 
+| Project | Description | Stack |
+|:---|:---|:---|
+| **[Hypixel Bazaar Tracker](https://github.com/46SX/HypixelBazaarChecker)** | Real-time bazaar scraper with order book depth analysis, flip scoring, and Grafana dashboards | `Python` `SQLite` `Grafana` |
+
+</div>
+
+> *More projects pinned below ↓*
+
+---
+
+### Stats
+
+<div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=46SX&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=28AD6D&icon_color=28AD6D&text_color=c9d1d9" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=46SX&show_icons=true&theme=default&hide_border=true&title_color=28AD6D&icon_color=28AD6D" />
@@ -59,34 +89,28 @@ class 46SX:
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=46SX&layout=compact&theme=default&hide_border=true&title_color=28AD6D" />
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=46SX&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=28AD6D&text_color=c9d1d9" width="40%" />
 </picture>
-
 </div>
 
 <div align="center">
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=46SX&theme=github-dark-blue&hide_border=true&background=0d1117&ring=28AD6D&fire=28AD6D&currStreakLabel=28AD6D&sideLabels=c9d1d9&dates=555555" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=46SX&theme=default&hide_border=true&ring=28AD6D&fire=28AD6D&currStreakLabel=28AD6D" />
   <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=46SX&theme=github-dark-blue&hide_border=true&background=0d1117&ring=28AD6D&fire=28AD6D&currStreakLabel=28AD6D&sideLabels=c9d1d9&dates=555555" width="55%" />
 </picture>
-
 </div>
 
 ---
 
-### 🤝 Let's Work Together
+### Work With Me
 
 <div align="center">
 
-Looking for a custom Python script, API integration, or automation tool?
+Need a custom scraper, API integration, or automation pipeline?
 
-I'm available for freelance work — reach out below.
+I'm available for freelance work — feel free to reach out.
 
+<br>
 
-</div>
-
----
-
-<div align="center">
+<img src="https://komarev.com/ghpvc/?username=46SX&style=flat-square&color=28AD6D&label=visitors" alt="Profile views" />
 
 </div>
