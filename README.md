@@ -28,6 +28,8 @@ class Developer:
         }
 ```
 
+---
+
 ### What I Build
 
 **Automation & Data**
@@ -38,6 +40,8 @@ Pulling data from APIs and turning it into something useful.
 
 **Infrastructure**
 Running my own servers at home. Media, AI, dashboards, all self-hosted on Linux.
+
+---
 
 ### Tech Stack
 
@@ -56,6 +60,8 @@ Running my own servers at home. Media, AI, dashboards, all self-hosted on Linux.
 
 </div>
 
+---
+
 ### Featured Projects
 
 <div align="center">
@@ -66,7 +72,9 @@ Running my own servers at home. Media, AI, dashboards, all self-hosted on Linux.
 
 </div>
 
-> *More projects pinned below ↓*
+> *More projects Coming soon =)*
+
+---
 
 ### Stats
 
@@ -90,6 +98,8 @@ Running my own servers at home. Media, AI, dashboards, all self-hosted on Linux.
   <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=46SX&theme=github-dark-blue&hide_border=true&background=0d1117&ring=28AD6D&fire=28AD6D&currStreakLabel=28AD6D&sideLabels=c9d1d9&dates=555555" width="55%" />
 </picture>
 </div>
+
+---
 
 ### Work With Me
 
