@@ -64,7 +64,7 @@ Running my own servers at home. Media, AI, dashboards, all self-hosted on Linux.
 
 | Project | Description | Stack |
 |:---|:---|:---|
-| **[Hypixel Bazaar Tracker](https://github.com/46SX/HypixelBazaarChecker)** | Real-time bazaar scraper with order book depth analysis, flip scoring, and Grafana dashboards | `Python` `SQLite` `Grafana` |
+| **[Hypixel Bazaar Tracker](https://github.com/46SX/HypixelBazaarChecker)** | Real-time bazaar scraper with order book depth analysis, flip scoring, and Grafana dashboards | `Python` `SQLite` |
 
 </div>
 
