@@ -6,8 +6,6 @@
 
 <div align="center">
   <a href="https://github.com/46SX"><img src="https://img.shields.io/badge/Python-Developer-28AD6D?style=for-the-badge&labelColor=0d1117" /></a>
-  <a href="https://github.com/46SX"><img src="https://img.shields.io/badge/Open_Source-Contributor-28AD6D?style=for-the-badge&labelColor=0d1117" /></a>
-  <a href="https://github.com/46SX"><img src="https://img.shields.io/badge/Available-For_Hire-28AD6D?style=for-the-badge&labelColor=0d1117" /></a>
 </div>
 
 <br>
@@ -24,7 +22,7 @@ class Developer:
         return {
             "building": "Self-hosted Hypixel Bazaar analytics platform",
             "learning": "Systems programming, Linux infrastructure",
-            "stack":    ["Python", "SQLite", "Grafana", "Lua", "Docker"],
+            "stack":    ["Python", "Lua", "Docker"],
         }
 ```
 
@@ -49,8 +47,6 @@ Running my own servers at home. Media, AI, dashboards, all self-hosted on Linux.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=flat-square&logo=tailscale&logoColor=white)
