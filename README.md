@@ -10,36 +10,6 @@
 
 <br>
 
-```python
-class Developer:
-    def __init__(self):
-        self.alias    = "46SX"
-        self.location = "Sweden"
-        self.langs    = ["sv_SE", "en_US"]
-        self.focus    = ["Automation", "API Integrations", "Web Scraping", "Data Pipelines"]
-
-    def current(self):
-        return {
-            "building": "Self-hosted Hypixel Bazaar analytics platform",
-            "learning": "Systems programming, Linux infrastructure",
-            "stack":    ["Python", "Lua", "Docker"],
-        }
-```
-
----
-
-### What I Build
-
-**Automation & Data**
-Scripts that collect and visualize data, like tracking Hypixel Bazaar prices in real time.
-
-**API Integrations**
-Pulling data from APIs and turning it into something useful.
-
-**Infrastructure**
-Running my own servers at home. Media, AI, dashboards, all self-hosted on Linux.
-
----
 
 ### Tech Stack
 
