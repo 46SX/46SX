@@ -12,7 +12,7 @@
 
 ### Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=transparent&hide_border=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=46sx&show_icons=true&theme=transparent&hide_border=true" alt="GitHub stats" />
 </p>
 
 > *Usually stuck in a terminal somewhere.*
